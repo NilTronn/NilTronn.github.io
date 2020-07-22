@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'PT Magistral Cyrillic Bold';
+    font-display: swap;
+    src: url('MagistralC-Bold.eot');
+    src: url('MagistralC-Bold.eot?#iefix') format('embedded-opentype'),
+    url('MagistralC-Bold.woff') format('woff'),
+    url('MagistralC-Bold.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
